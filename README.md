@@ -1,16 +1,20 @@
-# A-Star-Visualization
+# ⭐ A-Star Visualization
 
-Watch the A* algorithm hunt for the shortest route in real-time with D3.js!
+Watch the **A* algorithm** find the **shortest path** in real-time with **D3.js**!  
 
-[Check it out here!](https://sohanalli.github.io/A-Star-Visualization/)
+🔗 **Live Demo:** [Check it out here!](https://sohanalli.github.io/A-Star-Visualization/)  
 
+---
 
-## How to Play
+## 🚀 Features
+- 🗺 **Interactive Grid** – Set start/end points and add obstacles.
+- 🏎 **Real-time A* Pathfinding** – Visualizes the algorithm dynamically.
+- 🎨 **Smooth Animations** – Built with **D3.js** for an engaging experience.
+- 🔄 **Reset & Try Again** – Experiment with different paths and obstacles.
 
-1. **Start Point**: Click “Set Start Point” and pick a spot.
-2. **End Point**: Click “Set End Point” and pick another spot.
-3. **Add Walls**: Click “Add Walls” and build some obstacles.
-4. **Go!**: Click “Start A*” to watch the magic happen.
-5. **Reset**: Click “Reset” to start over.
+---
 
-Enjoy the show!
+## 🛠️ Tech Stack
+- **Visualization:** D3.js  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Algorithm:** A* Pathfinding  
